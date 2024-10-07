@@ -8,9 +8,6 @@ This repository contains an OpenGL project. The project demonstrates graphics pr
 - Features
 - Installation
 - Usage
-- Contributing
-- License
-- Contact
 
 ## Introduction
 
@@ -46,8 +43,7 @@ To get started with this project, follow these steps:
 To run the project, compile the source code and execute the binary:
 
 ```bash
-# Compile the project
-g++ -o opengl_project main.cpp -lGL -lGLU -lglut
+# Right click the projet and Buid
 
 # Run the project
 ./opengl_project
